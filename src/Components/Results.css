@@ -1,0 +1,26 @@
+.Results {
+    width: 450px;
+    height:950px;
+    overflow-y: scroll;
+    padding: 15px;
+    background-color:white;
+    border: 1px solid rgb(0, 128, 0);
+    color:green;
+    margin: 0px;
+}
+h4 {
+    text-align: center;
+    color:rgb(0, 128, 0);
+    margin: 0;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+@media only screen and (max-width:1020px) {
+    .Results{
+        width: 90%;
+        margin-bottom: 2rem;
+    }
+}

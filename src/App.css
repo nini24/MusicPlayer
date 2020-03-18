@@ -1,0 +1,39 @@
+body, html, #root {height: 100%;}
+html {
+  font-size: 18px;
+}
+h1 {
+  padding:10px 0px 10px 10px;
+  background-color:white;
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  color:rgb(0, 128, 0);
+  border-bottom: 1px solid rgb(211, 206, 206);
+}
+.header {
+  height: 50px;
+  background-color:white;
+}
+a {
+  color:rgb(16, 58, 16);
+}
+.App {
+  height:100%;
+  padding:0 17% 10% 17%;
+  font-family: "Montserrat";
+
+  font-weight: 500;
+  color: white;
+}
+.playlist{
+  display:flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+@media only screen and (max-width:1020px) {
+  .playlist{
+     align-items: center;
+     flex-direction: column;
+  }
+}
