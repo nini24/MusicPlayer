@@ -9,6 +9,7 @@
     background-color:white;
     color:green;
     border: 1px solid green;
+    margin-left: 40px;
 }
 
 h4 {
@@ -33,7 +34,7 @@ h4 {
     border-radius: 54px;
     border-width: 0px;
     margin-top: 1.27rem;
-    background-color: #1db954;
+    background-color: #0c622a;
     text-align: center;
     font-family: "Montserrat";
     font-size: 0.83rem;

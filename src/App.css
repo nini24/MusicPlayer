@@ -4,24 +4,24 @@ html {
 }
 h1 {
   padding:10px 0px 10px 10px;
-  background-color:white;
+  background-color:rgb(3, 31, 3);
   font-family: 'Montserrat';
   font-size: 1.5rem;
-  color:rgb(0, 128, 0);
-  border-bottom: 1px solid rgb(211, 206, 206);
+  color:white;
+  border-bottom: 1px solid rgb(233, 227, 227);
 }
 .header {
   height: 50px;
-  background-color:white;
+  background-color:rgb(218, 210, 210);
 }
 a {
-  color:rgb(16, 58, 16);
+  color:white;
 }
 .App {
   height:100%;
   padding:0 17% 10% 17%;
   font-family: "Montserrat";
-
+  background-image: url("./Components/music4.jpg");
   font-weight: 500;
   color: white;
 }

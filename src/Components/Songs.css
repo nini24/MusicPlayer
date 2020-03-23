@@ -2,6 +2,7 @@
     display:flex;
     align-items:center;
     border-bottom: 1px solid gray;
+    
 
 }
 
@@ -32,16 +33,19 @@
     text-align: center;
     font-weight: bold;
     margin: 0;
+    padding-top: 15px;
 }
 
 .song-info p {
     font-size: 0.83rem;
     font-weight: 300;
     color: rgb(0, 128, 0);
-    padding:0;
+  
     
 }
 
 .song-info iframe {
     margin: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
 }

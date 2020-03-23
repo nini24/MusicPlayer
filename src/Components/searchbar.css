@@ -27,5 +27,5 @@
     transition:bacckground-color 0.25s;
     margin-top:5px;}
     .searchButton:hover {
-        background-color: lightcoral;
+        background-color: grey;
     }
